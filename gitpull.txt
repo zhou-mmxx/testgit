@@ -1,0 +1,7 @@
+gitpull.txt
+这里有
+冲突
+
+开始测试git fetch
+
+忘记开捕获了
